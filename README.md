@@ -1,2 +1,1 @@
-# nekoma.co
-<a href="https://www.alviy.com/"><img src="https://cloud.alviy.com/badge/nekomast1.didns.ru.svg" alt="status"></a>
+[![status](https://cloud.alviy.com/badge/nekomas1.didns.ru.svg)](https://www.alviy.com/)
